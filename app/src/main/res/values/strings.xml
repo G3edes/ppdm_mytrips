@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Trips</string>
+    <string name="login">Login</string>
+    <string name="login_subtitle">Please sing in to continue</string>
+    <string name="email">E-mail</string>
+    <string name="Password">Password</string>
+    <string name="sing">Sing in</string>
+    <string name="donthave">Don\'t have an account?</string>
+    <string name="singup">Sing Up</string>
+    <string name="test">teste@email.com</string>
+    <string name="pass">**************</string>
+
+</resources>
